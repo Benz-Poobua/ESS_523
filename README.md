@@ -1,1 +1,1 @@
-# ESS_523
+# ESS_523: Geophysical Inverse Theory 
